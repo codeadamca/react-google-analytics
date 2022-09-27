@@ -2,7 +2,6 @@ import './App.css';
 
 import {BrowserRouter, Switch, Link} from 'react-router-dom';
 import {Page} from './extensions/Page';
-import React,{Component} from "react";
 
 import Home from './pages/Home';
 import About from './pages/About';
