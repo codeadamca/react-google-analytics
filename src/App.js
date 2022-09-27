@@ -12,7 +12,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <header className="App-header">
-          <h1>React Navigation Sample</h1>
+          <h1>React Google Analytics Sample</h1>
         </header>
         <nav>
           <Link to="/">Home</Link>
