@@ -6,7 +6,7 @@ class About extends Component {
     return (
       <div className="About">
 
-        <h2>About</h2>
+        <h2>About Me Page</h2>
 
       </div>
     );
