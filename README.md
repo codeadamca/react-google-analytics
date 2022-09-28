@@ -8,6 +8,7 @@ This example uses the [react-navigation](https://github.com/codeadamca/react-nav
 
 * [React.js](https://reactjs.org/)
 * [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+* [react-ga](https://www.npmjs.com/package/react-ga)
 * [Saeloun](https://blog.saeloun.com/2022/02/17/how-to-integrate-react-app-with-google-analytics.html)
 
 <a href="https://codeadam.ca">
