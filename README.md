@@ -4,7 +4,9 @@ A basic example of adding Google Analytics to a React.js app.
 
 This example uses the [react-navigation](https://github.com/codeadamca/react-navigation) and [react-page-titles](https://github.com/codeadamca/react-page-titles) repos as a starting point. 
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [React.js](https://reactjs.org/)
 * [react-router-dom](https://www.npmjs.com/package/react-router-dom)
