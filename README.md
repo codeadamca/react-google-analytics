@@ -13,6 +13,7 @@ This example uses the [react-navigation](https://github.com/codeadamca/react-nav
 * [react-ga](https://www.npmjs.com/package/react-ga)
 * [Saeloun](https://blog.saeloun.com/2022/02/17/how-to-integrate-react-app-with-google-analytics.html)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
